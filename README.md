@@ -11,8 +11,10 @@
 <a target="_blank" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="42" height="42"/></a>
 <a target="_blank" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="42" height="42" /></a>
 
-## What I'm learning
+## Something I built
 
+1. [Search autocomplete using trie search and Next.js](https://github.com/j-nguyenn/trie-search)
+2. [Robot simulation using command line in Next.js](https://github.com/j-nguyenn/robot-simulation)
 
 ## Where to find me
 <a target="_blank" href="https://www.linkedin.com/in/jasmine-nguyen-8a6b99237/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
